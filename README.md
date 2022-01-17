@@ -6,7 +6,7 @@
 ```
 Asapanna Rakesh (he/him) is an engineer and applied 
 computer scientist. He loves modelling intelligent systems 
-and build products that matter. Currently he is:
+and building products that matter. Currently he is:
 
 • Building UFF India
 • Building intelligent systems @gov-ai
@@ -14,13 +14,13 @@ and build products that matter. Currently he is:
 
 In the past he was:
 
+• Lead engineer and Data scientist
 • Product-contributor for multiple startups
 • Core ML Engineer for India's largest geo-mapping company 
 • Augmented reality developer for video-tech startup
 • Google AI machine learning facilitator
 • 2019 Code-In Mentor for Tensorflow
 • Invited to Google office to fund his start-up
-• Lead engineer and Data scientist
 • Engineer intern at Logitech (Bluetooth Low Energy)
 • Freelancer, independent consultant and much more …
 ```
