@@ -5,4 +5,4 @@
 
 
 
-[![Twitter Follow: @INF800](https://img.shields.io/twitter/follow/inf800?style=social)](https://twitter.com/alinf800)
+[![Twitter Follow: @INF800](https://img.shields.io/twitter/follow/INF800?style=social)](https://twitter.com/INF800)
