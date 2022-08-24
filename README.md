@@ -3,7 +3,7 @@
 
 <p align="left"> <a href='https://inf800.github.io/whoami/projects'>Some old pet projects >> </a> </p>
 
-![Dickson's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=INF800&theme=github&bg_color=172f44&line=a2c3e0&point=3192e4)
+![𝚐𝚒𝚝𝚑𝚞𝚋 contribution 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=INF800&theme=github&bg_color=172f44&line=a2c3e0&point=3192e4)
 
 <!-- ![](./anim.gif)
  -->
