@@ -1,8 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh4real&color=blueviolet" alt="https://github.com/rakesh4real&color=blueviolet" /></p>
-
-<p align="left"> <a href='https://inf800.github.io/whoami/projects'>Some old pet projects >> </a> </p>
+![views](https://komarev.com/ghpvc/?username=rakesh4real&color=blueviolet) [![Some old pet projects - >>](https://img.shields.io/static/v1?label=Some+old+pet+projects&message=»&color=blueviolet)](https://inf800.github.io/whoami/projects)
 
 ![](./anim.gif)
- 
- 
-Get in touch with twitter [![Twitter Follow: @INF800](https://img.shields.io/twitter/follow/INF800?style=social)](https://twitter.com/INF800)
